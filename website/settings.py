@@ -26,7 +26,7 @@ SECRET_KEY = 'n4r)$0@-(!st833z(+8+r=_271=rb*s5^ebnwnqwn-yr*^$ub&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['citybaes.herokuapp.com/']
+ALLOWED_HOSTS = ['citybaes.herokuapp.com']
 
 
 # Application definition
